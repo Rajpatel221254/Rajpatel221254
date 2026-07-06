@@ -92,9 +92,9 @@ React • Node.js • MongoDB • MediaPipe • ImageKit
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rajpatel221254&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajpatel221254&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -104,7 +104,7 @@ React • Node.js • MongoDB • MediaPipe • ImageKit
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Rajpatel221254&theme=github-dark&hide_border=true"/>
 
 </p>
 
@@ -112,9 +112,9 @@ React • Node.js • MongoDB • MediaPipe • ImageKit
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Portfolio: YOUR_PORTFOLIO
-- Email: YOUR_EMAIL
+- LinkedIn: https://www.linkedin.com/in/raj-patel-846b91314/
+- Portfolio: https://raj-portfolio-mac.vercel.app/
+- Email: rajpatel221254@gmail.com
 
 ---
 
